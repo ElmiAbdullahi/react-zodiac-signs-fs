@@ -1,0 +1,19 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  background-size: cover;
+  height: 780px;
+  align-content: flex-start;
+  position: relative;
+  overflow: auto;
+}
+background {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+  background-size: cover;
+  height: 780px;
+  align-content: flex-start;
+  position: relative;
+}
