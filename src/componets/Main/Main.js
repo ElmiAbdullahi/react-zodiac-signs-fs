@@ -2,6 +2,7 @@ import React from 'react';
 import { zodiacs } from '../../zodiacs.js';
 import Zodiac from '../Zodiac/Zodiac.js';
 import background from '../../background.png';
+import './Main.css';
 
 export default function Main() {
   return (
